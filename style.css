@@ -1,0 +1,21 @@
+.container-fluid{
+  margin: 0px 50px;
+}
+.home{
+  font-weight: 750;
+}
+.brewed{
+  font-family: Lora;
+  font-weight: 700;
+}
+.btn{
+  color:black;
+}
+.tombol {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.the{
+  font-weight: 750;
+}
