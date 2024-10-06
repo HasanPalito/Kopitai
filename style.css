@@ -7,15 +7,33 @@
 .brewed{
   font-family: Lora;
   font-weight: 700;
+  padding-top: 120px;
+}
+.your{
+  padding-top: 20px;
+  padding-bottom: 30px;
 }
 .btn{
   color:black;
+  
 }
-.tombol {
+.explore {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 .the{
   font-weight: 750;
+  padding-top: 120px;
+}
+.kopitai{
+  font-size: 11px;
+}
+.reserve{
+  padding-right: 400px;
+  padding-top: 300px;
+}
+.book {
+  padding-right: 400px;
+  padding-top: 30px;
 }
