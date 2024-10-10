@@ -1,0 +1,25 @@
+.container-fluid{
+    margin: 0px 50px;
+}
+
+.offer-box{
+    width: 900px;
+    height: 500px;
+    border-radius: 50px;
+    background-color: #F7EED3;
+    margin: auto;
+    margin-top: 70px;
+    padding: 75px;
+}
+.offer-box h2{
+    font-weight: bold;
+    color: #674636;
+}
+
+.offer-box h5{
+    font-weight: lighter;
+}
+
+.offer-promo img{
+    width: 250px;
+}
