@@ -1,5 +1,21 @@
+body{
+  background-color: #E5DAB9;
+}
 .container-fluid{
-  margin: 0px 50px;
+background: rgba(229, 218, 185, 0.36);
+backdrop-filter: blur(6.7px);
+-webkit-backdrop-filter: blur(6.7px);
+padding: 0; /* Atur padding ke 0 */
+margin: 0; /* Atur margin ke 0 */
+}
+.navbar-toggler{
+  background-color:#674636;
+  color : #674636;
+  border-radius: 50px;
+  border-color : #674636;
+}
+.navbar-text{
+  color : #674636;
 }
 .home{
   font-weight: 750;
@@ -13,14 +29,19 @@
   padding-top: 20px;
   padding-bottom: 30px;
 }
-.btn{
-  color:black;
-  
+.button1{
+  background-color:rgba(229, 218, 185, 1);
+  color : #674636;
+  border-radius: 50px;
+  border-color : #674636;
 }
 .explore {
-  display: flex;
+  margin: 5px 5px;
   justify-content: center;
   align-items: center;
+  background-color : #674636;
+  border-radius: 5px;
+  border-color : #674636;
 }
 .the{
   font-weight: 750;
