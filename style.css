@@ -1,18 +1,12 @@
 body{
   background-color: #E5DAB9;
+  height: 1512px;
+  width: 739px;
 }
-.container-fluid{
+.navbar{
 background: rgba(229, 218, 185, 0.36);
 backdrop-filter: blur(6.7px);
 -webkit-backdrop-filter: blur(6.7px);
-padding: 0; /* Atur padding ke 0 */
-margin: 0; /* Atur margin ke 0 */
-}
-.navbar-toggler{
-  background-color:#674636;
-  color : #674636;
-  border-radius: 50px;
-  border-color : #674636;
 }
 .navbar-text{
   color : #674636;
@@ -23,24 +17,26 @@ margin: 0; /* Atur margin ke 0 */
 .brewed{
   font-family: Lora;
   font-weight: 700;
-  padding-top: 120px;
+  size : 48px;
+  padding-top: 67.2px;
+  color : #674636;
 }
 .your{
+  font-weight: 400;
+  size : 24px;
   padding-top: 20px;
   padding-bottom: 30px;
 }
 .button1{
-  background-color:rgba(229, 218, 185, 1);
+  background-color:#E5DAB9;
   color : #674636;
   border-radius: 50px;
   border-color : #674636;
 }
 .explore {
-  margin: 5px 5px;
-  justify-content: center;
-  align-items: center;
-  background-color : #674636;
-  border-radius: 5px;
+  background-color:#674636;
+  color : #E5DAB9;
+  border-radius: 50px;
   border-color : #674636;
 }
 .the{
