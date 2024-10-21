@@ -1,15 +1,22 @@
 body{
-  background-color: #E5DAB9;
-  height: 1512px;
-  width: 739px;
+  background-color: #FFF8E8;
 }
 .navbar{
-background: rgba(229, 218, 185, 0.36);
-backdrop-filter: blur(6.7px);
--webkit-backdrop-filter: blur(6.7px);
+  background: rgba(255, 248, 232, 0.36);
+  backdrop-filter: blur(6.7px);
+  -webkit-backdrop-filter: blur(6.7px);
+}
+.navbar-nav{
+  margin-left: 30px;
 }
 .navbar-text{
+  margin-left: 20px;
   color : #674636;
+  font-size: 15px;
+  margin-top: 2px;
+}
+.kopitai-navbar{
+  color : black;
 }
 .home{
   font-weight: 750;
@@ -17,7 +24,7 @@ backdrop-filter: blur(6.7px);
 .brewed{
   font-family: Lora;
   font-weight: 700;
-  size : 48px;
+  font-size: 42px;
   padding-top: 67.2px;
   color : #674636;
 }
@@ -28,14 +35,15 @@ backdrop-filter: blur(6.7px);
   padding-bottom: 30px;
 }
 .button1{
-  background-color:#E5DAB9;
+  background-color:#FFF8E8;
   color : #674636;
+  margin-right: 20px;
   border-radius: 50px;
   border-color : #674636;
 }
 .explore {
   background-color:#674636;
-  color : #E5DAB9;
+  color : #FFF8E8;
   border-radius: 50px;
   border-color : #674636;
 }
